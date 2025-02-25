@@ -1,4 +1,4 @@
-package com.Sam-Cottom-99;
+package com.Sam-Cottom-99; fg
 
 public class Program {
 	public static void main(String[] args) {
